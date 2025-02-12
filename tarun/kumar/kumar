@@ -1,0 +1,3 @@
+touch prp{1..7}
+
+mkdir palem
